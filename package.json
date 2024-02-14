@@ -1,0 +1,16 @@
+{
+  "name": "desafio-felipao3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "projeto3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx ts-node projeto3.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "tsc": "^2.0.4"
+  }
+}
